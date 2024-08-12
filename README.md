@@ -1,4 +1,5 @@
 ## Project 1: Human Resource Analytics Dashboard
+## Dashboard Link:  https://app.powerbi.com/groups/me/reports/e2689d99-0dee-4ed5-93fe-8b9291d3f6d8/871196bbaa26f86d6085?redirectedFromSignup=1&experience=power-bi
 ### Introduction
 The Human Resource Analytics Dashboard provides an interactive way to visualize and analyze HR data. It includes insights into job roles, business travel, headcount, salary distribution, performance ratings, and demographic breakdowns by gender and age. This dashboard is designed to assist HR departments in making data-driven decisions.
 ### Features
@@ -70,6 +71,7 @@ This Power BI dashboard offers a clear overview of key HR metrics, empowering da
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Project 2: Amazon Prime Video Analysis
+## Dashboard Link: https://app.powerbi.com/groups/me/reports/21335e2b-0e3f-40f5-8478-5ab6b457290f/61a8bf63af9e8d4c9fd1?experience=power-bi
 ## Introduction
 The Amazon Prime Video Analytics Dashboard offers a comprehensive view of the streaming platform's content landscape. This dashboard is designed to provide insights into various metrics such as the total number of titles, ratings, genres, and directors, as well as detailed breakdowns by country, show type, and release year. By leveraging this dashboard, users can gain valuable insights into content distribution, audience preferences, and performance trends across different regions and categories.
 ## Features
