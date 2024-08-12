@@ -1,7 +1,7 @@
 ## Project 1: Human Resource Analytics Dashboard
 ## Dashboard Link:  https://app.powerbi.com/groups/me/reports/e2689d99-0dee-4ed5-93fe-8b9291d3f6d8/871196bbaa26f86d6085?redirectedFromSignup=1&experience=power-bi
 ### Introduction
-The Human Resource Analytics Dashboard provides an interactive way to visualize and analyze HR data. It includes insights into job roles, business travel, headcount, salary distribution, performance ratings, and demographic breakdowns by gender and age. This dashboard is designed to assist HR departments in making data-driven decisions.
+The Human Resource Analytics Dashboard provides an interactive way to visualize and analyze HR data. It includes insights into job roles, business travel, headcount, salary distribution, performance ratings, and demographic breakdowns by gender and age. This dashboard is designed to assist HR departments in making data-driven decisions. 
 ### Features
 1. *Job Role (Vertical Drop-Down Slicer)*
    - Allows users to filter data based on different job roles.
