@@ -99,7 +99,7 @@ The Sales Analysis Dashboard serves as a vital tool for businesses aiming to enh
 
 # Project 4: Financial Analysis Report
 
-## Dashboard Link:
+## Dashboard Link: https://app.powerbi.com/groups/me/reports/a24d7856-95da-400f-a41f-81bd1ffa6c6b/e3126fa182e7a803cfc1?experience=power-bi
 
 ## Introduction
 
