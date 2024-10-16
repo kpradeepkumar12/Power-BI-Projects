@@ -4,9 +4,7 @@
 
 ## Introduction
 
-This project focuses on developing a comprehensive Property Management Dashboard using Power BI, designed to facilitate real estate property values analysis. The dashboard provides a visual and interactive representation of key metrics that influence property valuation, management decisions, and market trends. By leveraging Power BI's powerful data visualization capabilities, stakeholders can gain insights into various aspects of property management, enabling informed decision-making and strategic planning.
-
-The dashboard covers several critical dimensions of property analysis, including waterfront status, renovation status, property conditions, and more. Each component of the dashboard is crafted to deliver intuitive visualizations that highlight trends and disparities within the property data.
+This project focuses on developing a comprehensive Property Management Dashboard using Power BI, designed to facilitate real estate property values analysis. The dashboard provides a visual and interactive representation of key metrics that influence property valuation, management decisions, and market trends. By leveraging Power BI's powerful data visualization capabilities, stakeholders can gain insights into various aspects of property management, enabling informed decision-making and strategic planning. The dashboard covers several critical dimensions of property analysis, including waterfront status, renovation status, property conditions, and more. Each component of the dashboard is crafted to deliver intuitive visualizations that highlight trends and disparities within the property data.
 
 ## Features
 
