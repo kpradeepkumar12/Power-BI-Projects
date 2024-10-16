@@ -6,6 +6,12 @@ Property Management Dashboard:
 
 ![pr pic3](https://github.com/user-attachments/assets/00fbeb31-9f20-4532-90e0-ce335e26f835)
 
+HR Analysis Dashboard:
 
+![T4](https://github.com/user-attachments/assets/196a56cd-d4b1-4a55-b9fb-2ff2953b638f)
+
+Sales Analysis Dashboard: 
+Financial Analysis Report:
+E-Commerce Sales Data:
 
 
