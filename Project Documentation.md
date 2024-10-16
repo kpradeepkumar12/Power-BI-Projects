@@ -1,6 +1,6 @@
 # Project 1: Property Management Dashboard
 
-## Dashboard Link:
+## Dashboard Link: https://app.powerbi.com/groups/me/reports/47e10a41-4cf6-4697-947c-14ec0f2d1b92/65871a2bbba28c220d33?experience=power-bi
 
 ## Introduction
 
@@ -34,7 +34,7 @@ The Property Management Dashboard serves as a vital tool for real estate profess
 
 # Project 2: HR Analysis Dashboard 
 
-## Dashboard Link:
+## Dashboard Link: https://app.powerbi.com/groups/me/reports/4441ad80-43b0-4440-9176-3b8153ebdb28/b2dc6cfe91071877409b?experience=power-bi
 
 ## Introduction
 
@@ -62,7 +62,7 @@ The HR Analysis Dashboard serves as a powerful tool for human resource managemen
 
 # Project 3: Sales Analysis Dashboard 
 
-## Dashboard Link:
+## Dashboard Link: https://app.powerbi.com/groups/me/reports/63c76f54-f212-44bc-b731-6a82a0fdc5af/c41cdccabe84f2139333?experience=power-bi
 
 ## Introduction
 
@@ -137,7 +137,7 @@ The **Financial Analysis Report** serves as a vital tool for understanding the f
 
 # Project 5: ECommerce Sales Data 2024 
 
-## Dashboard Link:
+## Dashboard Link: https://app.powerbi.com/groups/me/reports/829d70aa-d5ab-4951-9b43-8941259c32ab/21334e136c6ac23030dd?experience=power-bi
 
 ## Introduction
 
