@@ -104,6 +104,8 @@ The Sales Analysis Dashboard serves as a vital tool for businesses aiming to enh
 
 # Project 4: Financial Analysis Report
 
+## Dashboard Link:
+
 ## Introduction
 
 The **Financial Analysis Report** provides a comprehensive overview of the financial performance of FestMan Stores. This report leverages Power BI's powerful visualization tools to analyze key performance indicators (KPIs) related to sales, orders, profit, profit margin, and discounts over different time periods. It is designed to help stakeholders make informed decisions by comparing current year performance against the prior year, as well as offering insights into product performance across various segments.
@@ -140,3 +142,42 @@ The **Financial Analysis Report** serves as a vital tool for understanding the f
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Project 5: ECommerce Sales Data 2024 
+
+## Dashboard Link:
+
+## Introduction
+
+This Power BI project presents a comprehensive analysis of eCommerce sales data for the year 2024. The primary goal is to visualize and interpret key metrics that drive business decisions, identify trends, and provide insights into sales performance across various dimensions. By utilizing a range of visualizations, this report aims to facilitate better understanding of the eCommerce landscape, enabling stakeholders to make informed strategic choices.
+
+### Project Objectives
+
+- **Data Visualization:** To create interactive and insightful visualizations that summarize sales performance.
+- **Sales Analysis:** To explore sales by market, sub-category, geography, and shipping modes.
+- **Performance Metrics:** To highlight essential metrics such as total sales, total profit, and quantity sold.
+
+## Dashboard Components
+
+1. **Market (Slicer):** This slicer allows users to filter data by market, enabling targeted analysis of sales performance in specific regions.
+
+2. **Sub-category (Slicer):** This slicer provides the ability to segment data based on product sub-categories, allowing for detailed insights into product performance.
+
+3. **Total Sales (Card):** This card displays the overall sales figure, providing a quick snapshot of revenue generated.
+
+4. **Total Profit (Card):** This card showcases the total profit, allowing stakeholders to assess the profitability of their sales activities.
+
+5. **Total Quantity (Card):** This card indicates the total quantity of products sold, which is crucial for inventory management and sales strategies.
+
+6. **Sales by Country (Bar Chart):** This visualization presents a comparative analysis of sales figures across different countries, highlighting the strongest and weakest markets.
+
+7. **Sales by State (Doughnut Chart):** This chart visualizes sales distribution by state, providing insights into regional performance within countries.
+
+8. **Sales by Ship Mode (Funnel Chart):** This funnel chart depicts the distribution of sales across different shipping modes, illustrating preferences and trends in customer shipping choices.
+
+9. **Customer Data Table:** This table includes detailed customer information, including Customer ID, Customer Name, Category, Total Sales, Total Profit, and Ship Mode. This data enables personalized marketing efforts and customer relationship management.
+
+## Conclusion
+
+The ECommerce Sales Data 2024 Power BI report serves as a powerful tool for analyzing and visualizing critical sales metrics. By leveraging interactive components and diverse visualizations, stakeholders can gain valuable insights into sales performance across multiple dimensions. This analysis not only aids in identifying successful strategies and markets but also highlights areas needing improvement. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
