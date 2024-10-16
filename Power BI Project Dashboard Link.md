@@ -10,6 +10,4 @@ Sales Analysis Dashboard: https://app.powerbi.com/groups/me/reports/63c76f54-f21
 Financial Analysis Report: https://app.powerbi.com/groups/me/reports/a24d7856-95da-400f-a41f-81bd1ffa6c6b/e3126fa182e7a803cfc1?experience=power-bi
 -------------------------------------------------------------------------------------------------------------------------------
 E-Commerce Sales Data: https://app.powerbi.com/groups/me/reports/829d70aa-d5ab-4951-9b43-8941259c32ab/21334e136c6ac23030dd?experience=power-bi
-![ecom sales data power bi](https://github.com/user-attachments/assets/9e0aae88-48d6-4a37-9688-92e01e88a091)
-
 -------------------------------------------------------------------------------------------------------------------------------
